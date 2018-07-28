@@ -2171,3 +2171,541 @@ LogInit: Object subsystem initialized
 [2018.07.28-01.14.12:767][993]LogFileHelpers: Saving map '2DSideScrollerExampleMap' took 0.443
 [2018.07.28-01.14.13:033][993]LogSavePackage: Moving '../../../../../../Users/Gabriel/UnrealFour/YTTut2d/Saved/2DSideScrollerCharacter625525704FFE3335986251AC2836383F.tmp' to '../../../../../../Users/Gabriel/UnrealFour/YTTut2d/Content/2DSideScrollerBP/Blueprints/2DSideScrollerCharacter.uasset'
 [2018.07.28-01.18.11:360][702]LogAssetEditorManager: Opening Asset editor for PaperTileSet /Game/Sprites/Environment/hyptosis_tile-art-batch-3_TileSet.hyptosis_tile-art-batch-3_TileSet
+[2018.07.28-01.34.30:713][352]LogEditorViewport: Clicking Background
+[2018.07.28-01.34.31:917][398]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.28-01.34.32:033][401]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.07.28-01.34.32:124][401]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2018.07.28-01.34.32:124][401]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.07.28-01.34.32:124][401]PIE: New page: PIE session: 2DSideScrollerExampleMap (Jul 27, 2018, 11:34:32 AM)
+[2018.07.28-01.34.32:125][401]LogPlayLevel: Creating play world package: /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap
+[2018.07.28-01.34.32:132][401]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006786s)
+[2018.07.28-01.34.32:134][401]LogAIModule: Creating AISystem for world 2DSideScrollerExampleMap
+[2018.07.28-01.34.32:134][401]LogPlayLevel: PIE: World Init took: (0.002116s)
+[2018.07.28-01.34.32:135][401]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap to /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap (0.009301s)
+[2018.07.28-01.34.32:207][401]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.07.28-01.34.32:227][401]LogInit: FAudioDevice initialized.
+[2018.07.28-01.34.32:241][401]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.07.28-01.34.32:277][401]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2018.07.28-01.34.32:280][401]LogWorld: Bringing World /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap up for play (max tick rate 60) at 2018.07.27-18.34.32
+[2018.07.28-01.34.32:281][401]LogWorld: Bringing up level for play took: 0.002650
+[2018.07.28-01.34.32:310][401]PIE: Play in editor start time for /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap -0.682
+[2018.07.28-01.34.32:311][401]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2018.07.28-01.34.33:605][430]LogBlueprintUserMessages: [BadGoku_16] NPC Taking damage
+[2018.07.28-01.34.33:606][430]LogBlueprintUserMessages: [2DSideScrollerCharacter_254] You ain't dead nigga
+[2018.07.28-01.34.34:629][456]LogBlueprintUserMessages: [BadGoku_16] NPC Taking damage
+[2018.07.28-01.34.34:629][456]LogBlueprintUserMessages: [2DSideScrollerCharacter_254] You ain't dead nigga
+[2018.07.28-01.34.40:233][598]LogBlueprintUserMessages: [2DSideScrollerCharacter_254] Was that a rejuv?
+[2018.07.28-01.34.41:465][629]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2018.07.28-01.34.41:466][629]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.07.28-01.34.41:494][629]LogSlate: Window 'YTTut2d Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.07.28-01.34.41:578][629]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.07.28-01.34.41:578][629]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2018.07.28-01.34.41:687][630]LogPlayLevel: Display: Destroying online subsystem :Context_36
+[2018.07.28-01.35.19:948][295]BlueprintLog: New page: Compile 2DSideScrollerCharacter
+[2018.07.28-01.37.56:555][571]LogEditorTransaction: Undo Delete current selection
+[2018.07.28-01.39.57:129][728]BlueprintLog: New page: Compile 2DSideScrollerCharacter
+[2018.07.28-01.39.58:014][738]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.07.28-01.39.58:093][738]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2018.07.28-01.39.58:094][738]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.07.28-01.39.58:094][738]PIE: New page: PIE session: 2DSideScrollerExampleMap (Jul 27, 2018, 11:39:58 AM)
+[2018.07.28-01.39.58:094][738]LogPlayLevel: Creating play world package: /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap
+[2018.07.28-01.39.58:097][738]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003162s)
+[2018.07.28-01.39.58:098][738]LogAIModule: Creating AISystem for world 2DSideScrollerExampleMap
+[2018.07.28-01.39.58:098][738]LogPlayLevel: PIE: World Init took: (0.000834s)
+[2018.07.28-01.39.58:098][738]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap to /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap (0.004153s)
+[2018.07.28-01.39.58:143][738]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.07.28-01.39.58:162][738]LogInit: FAudioDevice initialized.
+[2018.07.28-01.39.58:172][738]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.07.28-01.39.58:212][738]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2018.07.28-01.39.58:216][738]LogWorld: Bringing World /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap up for play (max tick rate 60) at 2018.07.27-18.39.58
+[2018.07.28-01.39.58:216][738]LogWorld: Bringing up level for play took: 0.002978
+[2018.07.28-01.39.58:232][738]PIE: Play in editor start time for /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap -0.76
+[2018.07.28-01.39.58:232][738]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2018.07.28-01.39.59:656][766]LogBlueprintUserMessages: [BadGoku_16] NPC Taking damage
+[2018.07.28-01.39.59:656][766]LogBlueprintUserMessages: [2DSideScrollerCharacter_254] You ain't dead nigga
+[2018.07.28-01.40.00:833][796]LogBlueprintUserMessages: [BadGoku_16] NPC Taking damage
+[2018.07.28-01.40.00:833][796]LogBlueprintUserMessages: [2DSideScrollerCharacter_254] You ain't dead nigga
+[2018.07.28-01.40.01:896][823]LogBlueprintUserMessages: [BadGoku_16] NPC Taking damage
+[2018.07.28-01.40.01:896][823]LogBlueprintUserMessages: [2DSideScrollerCharacter_254] You ain't dead nigga
+[2018.07.28-01.40.02:804][846]LogBlueprintUserMessages: [2DSideScrollerCharacter_254] You ain't dead nigga
+[2018.07.28-01.40.06:597][942]LogBlueprintUserMessages: [BadGoku_16] NPC Dead
+[2018.07.28-01.40.06:597][942]LogBlueprintUserMessages: [2DSideScrollerCharacter_254] You ain't dead nigga
+[2018.07.28-01.40.07:778][972]LogBlueprintUserMessages: [BadGoku_16] NPC Dead
+[2018.07.28-01.40.07:778][972]LogBlueprintUserMessages: [2DSideScrollerCharacter_254] You ain't dead nigga
+[2018.07.28-01.40.09:040][  4]LogBlueprintUserMessages: [BadGoku_16] NPC Dead
+[2018.07.28-01.40.09:040][  4]LogBlueprintUserMessages: [2DSideScrollerCharacter_254] You ain't dead nigga
+[2018.07.28-01.40.24:175][388]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2018.07.28-01.40.24:176][388]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.07.28-01.40.24:212][388]LogSlate: Window 'YTTut2d Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.07.28-01.40.24:310][388]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.07.28-01.40.24:310][388]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2018.07.28-01.40.24:527][389]LogPlayLevel: Display: Destroying online subsystem :Context_37
+[2018.07.28-01.40.26:231][449]LogSavePackage: Moving '../../../../../../Users/Gabriel/UnrealFour/YTTut2d/Saved/2DSideScrollerExampleMap5698B97C437F51ABDAD48A96F80495D3.tmp' to '../../../../../../Users/Gabriel/UnrealFour/YTTut2d/Content/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.umap'
+[2018.07.28-01.40.26:279][449]LogFileHelpers: Saving map '2DSideScrollerExampleMap' took 0.414
+[2018.07.28-01.40.26:426][449]LogSavePackage: Moving '../../../../../../Users/Gabriel/UnrealFour/YTTut2d/Saved/2DSideScrollerCharacter1D1902D44FD33D9EC1EEF8BF7DD98CDA.tmp' to '../../../../../../Users/Gabriel/UnrealFour/YTTut2d/Content/2DSideScrollerBP/Blueprints/2DSideScrollerCharacter.uasset'
+[2018.07.28-01.46.56:206][786]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyParticleSystems/Sprite/Mat_Sparks" FILE="../../../../../../Users/Gabriel/UnrealFour/YTTut2d/Content/MyParticleSystems/Sprite/Mat_Sparks.uasset" SILENT=true
+[2018.07.28-01.46.56:247][786]LogSavePackage: Moving '../../../../../../Users/Gabriel/UnrealFour/YTTut2d/Saved/Mat_Sparks8C6E88EA4DD1D80E17A75784ABDD5A33.tmp' to '../../../../../../Users/Gabriel/UnrealFour/YTTut2d/Content/MyParticleSystems/Sprite/Mat_Sparks.uasset'
+[2018.07.28-01.47.04:234][888]LogAssetEditorManager: Opening Asset editor for Material /Game/MyParticleSystems/Sprite/Mat_Sparks.Mat_Sparks
+[2018.07.28-01.47.04:259][888]LogMaterial: Display: Missing cached shader map for material Mat_Sparks, compiling. 
+[2018.07.28-01.47.05:199][888]LogMaterial: Display: Missing cached shader map for material Mat_Sparks, compiling. 
+[2018.07.28-01.47.05:218][888]LogShaderCompilers: Display: Shaders left to compile 21
+[2018.07.28-01.47.05:218][888]LogShaderCompilers: Display: Shaders left to compile 20
+[2018.07.28-01.47.05:218][888]LogShaderCompilers: Display: Shaders left to compile 19
+[2018.07.28-01.47.07:271][963]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.07.28-01.47.07:317][964]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.07.28-01.47.07:347][966]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.07.28-01.47.07:561][973]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.07.28-01.47.07:601][975]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.07.28-01.47.07:606][975]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.07.28-01.47.07:860][987]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.07.28-01.47.07:894][988]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.07.28-01.47.07:917][989]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.07.28-01.47.08:399][  2]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.07.28-01.47.08:459][  2]LogMaterial: Display: Missing cached shader map for material Mat_Sparks, compiling. 
+[2018.07.28-01.47.08:683][  9]LogShaderCompilers: Display: Shaders left to compile 21
+[2018.07.28-01.47.08:707][ 10]LogShaderCompilers: Display: Shaders left to compile 20
+[2018.07.28-01.47.09:088][ 21]LogShaderCompilers: Display: Shaders left to compile 19
+[2018.07.28-01.47.09:137][ 22]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.07.28-01.47.09:155][ 23]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.07.28-01.47.09:442][ 32]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.07.28-01.47.09:467][ 33]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.07.28-01.47.09:491][ 33]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.07.28-01.47.09:694][ 40]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.07.28-01.47.09:767][ 42]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.07.28-01.47.09:782][ 42]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.07.28-01.47.09:952][ 48]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.07.28-01.47.10:053][ 49]LogMaterial: Display: Missing cached shader map for material Mat_Sparks, compiling. 
+[2018.07.28-01.47.10:129][ 49]LogMaterial: Display: Missing cached shader map for material Mat_Sparks, compiling. 
+[2018.07.28-01.47.10:159][ 49]LogMaterial: Display: Missing cached shader map for material Mat_Sparks, compiling. 
+[2018.07.28-01.47.10:404][ 57]LogShaderCompilers: Display: Shaders left to compile 30
+[2018.07.28-01.47.10:475][ 61]LogShaderCompilers: Display: Shaders left to compile 29
+[2018.07.28-01.47.10:587][ 67]LogShaderCompilers: Display: Shaders left to compile 28
+[2018.07.28-01.47.10:712][ 73]LogShaderCompilers: Display: Shaders left to compile 27
+[2018.07.28-01.47.10:784][ 77]LogShaderCompilers: Display: Shaders left to compile 26
+[2018.07.28-01.47.11:031][ 83]LogShaderCompilers: Display: Shaders left to compile 25
+[2018.07.28-01.47.11:192][ 84]LogShaderCompilers: Display: Shaders left to compile 24
+[2018.07.28-01.47.11:295][ 88]LogShaderCompilers: Display: Shaders left to compile 23
+[2018.07.28-01.47.11:531][ 93]LogShaderCompilers: Display: Shaders left to compile 22
+[2018.07.28-01.47.12:250][106]LogShaderCompilers: Display: Shaders left to compile 21
+[2018.07.28-01.47.12:330][108]LogShaderCompilers: Display: Shaders left to compile 20
+[2018.07.28-01.47.13:609][141]LogShaderCompilers: Display: Shaders left to compile 19
+[2018.07.28-01.47.13:732][144]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.07.28-01.47.13:779][145]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.07.28-01.47.14:982][165]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.07.28-01.47.15:113][167]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.07.28-01.47.15:889][190]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.07.28-01.47.15:921][191]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.07.28-01.47.15:980][194]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.07.28-01.47.16:394][206]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.07.28-01.47.16:635][213]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.07.28-01.47.16:816][220]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.07.28-01.47.17:001][225]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.07.28-01.47.17:211][231]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.07.28-01.47.17:503][239]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.07.28-01.47.17:550][241]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.07.28-01.47.17:812][249]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.07.28-01.47.17:952][253]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.07.28-01.47.18:412][269]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.07.28-01.47.18:428][270]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.07.28-01.47.19:873][309]MaterialEditorStats: Base pass shader: 63 instructions
+[2018.07.28-01.47.19:873][309]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 84 instructions
+[2018.07.28-01.47.19:873][309]MaterialEditorStats: Base pass vertex shader: 107 instructions
+[2018.07.28-01.47.19:873][309]MaterialEditorStats: Texture samplers: 3/16
+[2018.07.28-01.48.23:852][697]LogMaterial: Display: Missing cached shader map for material Mat_Sparks, compiling. 
+[2018.07.28-01.48.23:948][698]LogShaderCompilers: Display: Shaders left to compile 30
+[2018.07.28-01.48.23:948][698]LogShaderCompilers: Display: Shaders left to compile 29
+[2018.07.28-01.48.23:948][698]LogShaderCompilers: Display: Shaders left to compile 28
+[2018.07.28-01.48.23:960][698]LogMaterial: Display: Missing cached shader map for material Material_0, compiling. 
+[2018.07.28-01.48.25:241][744]LogShaderCompilers: Display: Shaders left to compile 32
+[2018.07.28-01.48.25:286][746]LogShaderCompilers: Display: Shaders left to compile 31
+[2018.07.28-01.48.25:339][747]LogShaderCompilers: Display: Shaders left to compile 30
+[2018.07.28-01.48.25:658][756]LogShaderCompilers: Display: Shaders left to compile 29
+[2018.07.28-01.48.25:767][759]LogShaderCompilers: Display: Shaders left to compile 28
+[2018.07.28-01.48.25:857][763]LogShaderCompilers: Display: Shaders left to compile 27
+[2018.07.28-01.48.26:273][775]LogShaderCompilers: Display: Shaders left to compile 26
+[2018.07.28-01.48.26:342][779]LogShaderCompilers: Display: Shaders left to compile 25
+[2018.07.28-01.48.26:691][789]LogShaderCompilers: Display: Shaders left to compile 24
+[2018.07.28-01.48.26:739][791]LogShaderCompilers: Display: Shaders left to compile 23
+[2018.07.28-01.48.26:864][796]LogShaderCompilers: Display: Shaders left to compile 22
+[2018.07.28-01.48.27:257][808]LogShaderCompilers: Display: Shaders left to compile 21
+[2018.07.28-01.48.27:273][809]LogShaderCompilers: Display: Shaders left to compile 20
+[2018.07.28-01.48.27:601][818]LogShaderCompilers: Display: Shaders left to compile 19
+[2018.07.28-01.48.27:788][823]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.07.28-01.48.27:788][823]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.07.28-01.48.28:425][832]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.07.28-01.48.28:640][835]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.07.28-01.48.28:783][838]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.07.28-01.48.29:312][848]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.07.28-01.48.29:408][849]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.07.28-01.48.29:816][856]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.07.28-01.48.30:159][861]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.07.28-01.48.30:266][863]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.07.28-01.48.30:735][870]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.07.28-01.48.31:034][875]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.07.28-01.48.31:034][875]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.07.28-01.48.31:524][882]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.07.28-01.48.31:964][901]MaterialEditorStats: Base pass shader: 63 instructions
+[2018.07.28-01.48.31:964][901]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 84 instructions
+[2018.07.28-01.48.31:964][901]MaterialEditorStats: Base pass vertex shader: 107 instructions
+[2018.07.28-01.48.31:964][901]MaterialEditorStats: Texture samplers: 3/16
+[2018.07.28-01.50.26:303][310]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap' took 0.104
+[2018.07.28-01.50.26:308][310]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/2DSideScrollerBP/Blueprints/2DSideScrollerCharacter] ([1] browsable assets)...
+[2018.07.28-01.50.26:308][310]OBJ SavePackage: Finished generating thumbnails for package [/Game/2DSideScrollerBP/Blueprints/2DSideScrollerCharacter]
+[2018.07.28-01.50.26:677][310]LogSavePackage: Moving '../../../../../../Users/Gabriel/UnrealFour/YTTut2d/Saved/2DSideScrollerCharacter_Auto9E98E2F264DCD7354A152B0B106161F41.tmp' to '../../../../../../Users/Gabriel/UnrealFour/YTTut2d/Saved/Autosaves/Game/2DSideScrollerBP/Blueprints/2DSideScrollerCharacter_Auto9.uasset'
+[2018.07.28-01.50.26:681][310]LogFileHelpers: Auto-saving content packages took 0.376
+[2018.07.28-02.01.17:237][540]LogMaterial: Display: Missing cached shader map for material Mat_Sparks, compiling. 
+[2018.07.28-02.01.17:274][541]LogShaderCompilers: Display: Shaders left to compile 30
+[2018.07.28-02.01.17:274][541]LogShaderCompilers: Display: Shaders left to compile 29
+[2018.07.28-02.01.17:274][541]LogShaderCompilers: Display: Shaders left to compile 28
+[2018.07.28-02.01.18:463][590]LogShaderCompilers: Display: Shaders left to compile 27
+[2018.07.28-02.01.18:463][590]LogShaderCompilers: Display: Shaders left to compile 26
+[2018.07.28-02.01.18:560][592]LogShaderCompilers: Display: Shaders left to compile 25
+[2018.07.28-02.01.18:780][598]LogShaderCompilers: Display: Shaders left to compile 24
+[2018.07.28-02.01.18:882][601]LogShaderCompilers: Display: Shaders left to compile 23
+[2018.07.28-02.01.18:982][604]LogShaderCompilers: Display: Shaders left to compile 22
+[2018.07.28-02.01.19:823][628]LogMaterial: Display: Missing cached shader map for material Mat_Sparks, compiling. 
+[2018.07.28-02.01.19:859][629]LogShaderCompilers: Display: Shaders left to compile 30
+[2018.07.28-02.01.20:351][655]LogShaderCompilers: Display: Shaders left to compile 29
+[2018.07.28-02.01.20:400][656]LogShaderCompilers: Display: Shaders left to compile 28
+[2018.07.28-02.01.20:977][671]LogShaderCompilers: Display: Shaders left to compile 27
+[2018.07.28-02.01.21:062][674]LogShaderCompilers: Display: Shaders left to compile 26
+[2018.07.28-02.01.21:328][681]LogShaderCompilers: Display: Shaders left to compile 25
+[2018.07.28-02.01.21:493][685]LogShaderCompilers: Display: Shaders left to compile 24
+[2018.07.28-02.01.21:534][687]LogShaderCompilers: Display: Shaders left to compile 23
+[2018.07.28-02.01.21:742][692]LogShaderCompilers: Display: Shaders left to compile 22
+[2018.07.28-02.01.23:155][749]LogShaderCompilers: Display: Shaders left to compile 21
+[2018.07.28-02.01.23:284][753]LogShaderCompilers: Display: Shaders left to compile 20
+[2018.07.28-02.01.24:094][778]LogShaderCompilers: Display: Shaders left to compile 19
+[2018.07.28-02.01.24:315][785]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.07.28-02.01.24:447][789]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.07.28-02.01.25:432][819]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.07.28-02.01.25:545][823]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.07.28-02.01.26:145][839]LogMaterial: Display: Missing cached shader map for material Mat_Sparks, compiling. 
+[2018.07.28-02.01.26:675][866]LogShaderCompilers: Display: Shaders left to compile 30
+[2018.07.28-02.01.26:816][873]LogShaderCompilers: Display: Shaders left to compile 29
+[2018.07.28-02.01.26:965][881]LogShaderCompilers: Display: Shaders left to compile 28
+[2018.07.28-02.01.27:383][896]LogShaderCompilers: Display: Shaders left to compile 27
+[2018.07.28-02.01.27:383][896]LogShaderCompilers: Display: Shaders left to compile 26
+[2018.07.28-02.01.27:547][900]LogShaderCompilers: Display: Shaders left to compile 25
+[2018.07.28-02.01.27:712][904]LogShaderCompilers: Display: Shaders left to compile 24
+[2018.07.28-02.01.27:803][906]LogShaderCompilers: Display: Shaders left to compile 23
+[2018.07.28-02.01.27:997][911]LogShaderCompilers: Display: Shaders left to compile 22
+[2018.07.28-02.01.29:075][954]LogShaderCompilers: Display: Shaders left to compile 21
+[2018.07.28-02.01.29:208][958]LogShaderCompilers: Display: Shaders left to compile 20
+[2018.07.28-02.01.29:636][973]LogShaderCompilers: Display: Shaders left to compile 19
+[2018.07.28-02.01.29:905][983]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.07.28-02.01.29:960][985]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.07.28-02.01.30:704][  2]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.07.28-02.01.30:940][ 11]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.07.28-02.01.31:661][ 25]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.07.28-02.01.31:683][ 26]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.07.28-02.01.31:897][ 33]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.07.28-02.01.32:295][ 41]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.07.28-02.01.32:780][ 57]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.07.28-02.01.33:186][ 69]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.07.28-02.01.33:332][ 74]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.07.28-02.01.33:892][ 91]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.07.28-02.01.34:278][104]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.07.28-02.01.34:278][104]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.07.28-02.01.35:297][134]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.07.28-02.01.35:393][139]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.07.28-02.01.36:686][185]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.07.28-02.01.36:809][189]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.07.28-02.01.47:604][517]LogMaterial: Display: Missing cached shader map for material Mat_Sparks, compiling. 
+[2018.07.28-02.01.47:631][517]LogMaterial: Display: Missing cached shader map for material Mat_Sparks, compiling. 
+[2018.07.28-02.01.47:696][518]LogShaderCompilers: Display: Shaders left to compile 30
+[2018.07.28-02.01.47:696][518]LogShaderCompilers: Display: Shaders left to compile 29
+[2018.07.28-02.01.47:696][518]LogShaderCompilers: Display: Shaders left to compile 28
+[2018.07.28-02.01.48:187][530]LogShaderCompilers: Display: Shaders left to compile 27
+[2018.07.28-02.01.48:285][533]LogShaderCompilers: Display: Shaders left to compile 26
+[2018.07.28-02.01.48:331][535]LogShaderCompilers: Display: Shaders left to compile 25
+[2018.07.28-02.01.48:556][541]LogShaderCompilers: Display: Shaders left to compile 24
+[2018.07.28-02.01.48:616][544]LogShaderCompilers: Display: Shaders left to compile 23
+[2018.07.28-02.01.48:719][547]LogShaderCompilers: Display: Shaders left to compile 22
+[2018.07.28-02.01.49:681][574]LogShaderCompilers: Display: Shaders left to compile 21
+[2018.07.28-02.01.49:739][576]LogShaderCompilers: Display: Shaders left to compile 20
+[2018.07.28-02.01.50:349][593]LogShaderCompilers: Display: Shaders left to compile 19
+[2018.07.28-02.01.50:514][599]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.07.28-02.01.50:774][603]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.07.28-02.01.51:463][620]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.07.28-02.01.51:576][624]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.07.28-02.01.52:280][637]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.07.28-02.01.52:343][640]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.07.28-02.01.52:469][643]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.07.28-02.01.52:977][668]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.07.28-02.01.53:387][680]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.07.28-02.01.53:552][684]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.07.28-02.01.53:859][692]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.07.28-02.01.54:123][698]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.07.28-02.01.54:625][713]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.07.28-02.01.54:658][714]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.07.28-02.01.55:084][725]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.07.28-02.01.55:222][731]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.07.28-02.01.55:878][751]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.07.28-02.01.55:878][751]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.07.28-02.01.56:441][767]LogMaterial: Display: Missing cached shader map for material Mat_Sparks, compiling. 
+[2018.07.28-02.01.56:466][767]LogShaderCompilers: Display: Shaders left to compile 30
+[2018.07.28-02.01.56:466][767]LogShaderCompilers: Display: Shaders left to compile 29
+[2018.07.28-02.01.56:828][788]LogShaderCompilers: Display: Shaders left to compile 28
+[2018.07.28-02.01.56:836][788]LogShaderCompilers: Display: Shaders left to compile 27
+[2018.07.28-02.01.57:066][800]LogShaderCompilers: Display: Shaders left to compile 26
+[2018.07.28-02.01.57:485][810]LogShaderCompilers: Display: Shaders left to compile 25
+[2018.07.28-02.01.57:485][810]LogShaderCompilers: Display: Shaders left to compile 24
+[2018.07.28-02.01.57:500][811]LogShaderCompilers: Display: Shaders left to compile 23
+[2018.07.28-02.01.57:778][820]LogShaderCompilers: Display: Shaders left to compile 22
+[2018.07.28-02.01.58:170][831]LogShaderCompilers: Display: Shaders left to compile 21
+[2018.07.28-02.01.58:217][833]LogShaderCompilers: Display: Shaders left to compile 20
+[2018.07.28-02.01.58:643][844]LogShaderCompilers: Display: Shaders left to compile 19
+[2018.07.28-02.01.58:868][852]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.07.28-02.01.58:893][853]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.07.28-02.01.59:285][867]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.07.28-02.01.59:476][872]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.07.28-02.02.00:247][898]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.07.28-02.02.00:287][900]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.07.28-02.02.00:490][910]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.07.28-02.02.00:953][932]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.07.28-02.02.01:416][944]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.07.28-02.02.01:598][946]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.07.28-02.02.01:775][953]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.07.28-02.02.02:141][964]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.07.28-02.02.02:634][979]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.07.28-02.02.02:688][981]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.07.28-02.02.02:806][983]LogMaterial: Display: Missing cached shader map for material Mat_Sparks, compiling. 
+[2018.07.28-02.02.03:025][995]LogShaderCompilers: Display: Shaders left to compile 30
+[2018.07.28-02.02.03:327][  7]LogShaderCompilers: Display: Shaders left to compile 29
+[2018.07.28-02.02.03:354][  8]LogShaderCompilers: Display: Shaders left to compile 28
+[2018.07.28-02.02.03:623][ 15]LogShaderCompilers: Display: Shaders left to compile 27
+[2018.07.28-02.02.03:669][ 16]LogShaderCompilers: Display: Shaders left to compile 26
+[2018.07.28-02.02.03:900][ 22]LogShaderCompilers: Display: Shaders left to compile 25
+[2018.07.28-02.02.03:914][ 22]LogShaderCompilers: Display: Shaders left to compile 24
+[2018.07.28-02.02.03:959][ 23]LogShaderCompilers: Display: Shaders left to compile 23
+[2018.07.28-02.02.04:242][ 32]LogShaderCompilers: Display: Shaders left to compile 22
+[2018.07.28-02.02.04:669][ 45]LogShaderCompilers: Display: Shaders left to compile 21
+[2018.07.28-02.02.04:799][ 49]LogShaderCompilers: Display: Shaders left to compile 20
+[2018.07.28-02.02.05:235][ 58]LogShaderCompilers: Display: Shaders left to compile 19
+[2018.07.28-02.02.05:445][ 64]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.07.28-02.02.05:445][ 64]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.07.28-02.02.05:773][ 74]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.07.28-02.02.05:890][ 78]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.07.28-02.02.06:324][ 94]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.07.28-02.02.06:388][ 96]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.07.28-02.02.06:453][ 98]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.07.28-02.02.06:841][111]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.07.28-02.02.07:043][117]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.07.28-02.02.07:359][125]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.07.28-02.02.07:746][144]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.07.28-02.02.08:144][159]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.07.28-02.02.08:415][167]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.07.28-02.02.08:541][172]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.07.28-02.02.08:741][179]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.07.28-02.02.09:089][189]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.07.28-02.02.09:632][198]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.07.28-02.02.09:721][201]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.07.28-02.02.10:890][250]MaterialEditorStats: Base pass shader: 81 instructions
+[2018.07.28-02.02.10:891][250]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 102 instructions
+[2018.07.28-02.02.10:891][250]MaterialEditorStats: Base pass vertex shader: 111 instructions
+[2018.07.28-02.02.10:891][250]MaterialEditorStats: Texture samplers: 3/16
+[2018.07.28-02.02.10:891][250]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.07.28-02.02.13:552][337]LogMaterial: Display: Missing cached shader map for material Mat_Sparks, compiling. 
+[2018.07.28-02.02.13:798][337]LogShaderCompilers: Display: Shaders left to compile 30
+[2018.07.28-02.02.13:798][337]LogShaderCompilers: Display: Shaders left to compile 29
+[2018.07.28-02.02.13:798][337]LogShaderCompilers: Display: Shaders left to compile 28
+[2018.07.28-02.02.13:804][337]LogMaterial: Display: Missing cached shader map for material Mat_Sparks, compiling. 
+[2018.07.28-02.02.13:878][338]LogShaderCompilers: Display: Shaders left to compile 30
+[2018.07.28-02.02.13:878][338]LogShaderCompilers: Display: Shaders left to compile 29
+[2018.07.28-02.02.13:885][338]LogMaterial: Display: Missing cached shader map for material Material_1, compiling. 
+[2018.07.28-02.02.13:935][341]LogShaderCompilers: Display: Shaders left to compile 33
+[2018.07.28-02.02.14:136][348]LogShaderCompilers: Display: Shaders left to compile 32
+[2018.07.28-02.02.14:185][350]LogShaderCompilers: Display: Shaders left to compile 31
+[2018.07.28-02.02.14:279][355]LogShaderCompilers: Display: Shaders left to compile 30
+[2018.07.28-02.02.14:508][367]LogShaderCompilers: Display: Shaders left to compile 29
+[2018.07.28-02.02.14:519][367]LogShaderCompilers: Display: Shaders left to compile 28
+[2018.07.28-02.02.14:651][374]LogShaderCompilers: Display: Shaders left to compile 27
+[2018.07.28-02.02.15:335][409]LogShaderCompilers: Display: Shaders left to compile 26
+[2018.07.28-02.02.15:344][409]LogEditorTransaction: Undo Material Editor: New Function Call
+[2018.07.28-02.02.15:369][409]LogMaterial: Display: Missing cached shader map for material Mat_Sparks, compiling. 
+[2018.07.28-02.02.15:411][409]LogMaterial: Display: Missing cached shader map for material Mat_Sparks, compiling. 
+[2018.07.28-02.02.15:492][410]LogShaderCompilers: Display: Shaders left to compile 35
+[2018.07.28-02.02.15:722][413]LogShaderCompilers: Display: Shaders left to compile 34
+[2018.07.28-02.02.15:822][416]LogShaderCompilers: Display: Shaders left to compile 33
+[2018.07.28-02.02.15:941][421]LogShaderCompilers: Display: Shaders left to compile 32
+[2018.07.28-02.02.16:067][424]LogShaderCompilers: Display: Shaders left to compile 31
+[2018.07.28-02.02.16:179][427]LogShaderCompilers: Display: Shaders left to compile 30
+[2018.07.28-02.02.16:258][429]LogShaderCompilers: Display: Shaders left to compile 29
+[2018.07.28-02.02.16:274][429]LogShaderCompilers: Display: Shaders left to compile 28
+[2018.07.28-02.02.16:482][435]LogShaderCompilers: Display: Shaders left to compile 27
+[2018.07.28-02.02.16:953][447]LogShaderCompilers: Display: Shaders left to compile 26
+[2018.07.28-02.02.17:007][448]LogShaderCompilers: Display: Shaders left to compile 25
+[2018.07.28-02.02.17:528][461]LogShaderCompilers: Display: Shaders left to compile 24
+[2018.07.28-02.02.17:609][463]LogShaderCompilers: Display: Shaders left to compile 23
+[2018.07.28-02.02.17:729][466]LogShaderCompilers: Display: Shaders left to compile 22
+[2018.07.28-02.02.18:295][480]LogShaderCompilers: Display: Shaders left to compile 21
+[2018.07.28-02.02.18:307][480]LogShaderCompilers: Display: Shaders left to compile 20
+[2018.07.28-02.02.18:785][492]LogShaderCompilers: Display: Shaders left to compile 19
+[2018.07.28-02.02.18:898][495]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.07.28-02.02.18:998][498]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.07.28-02.02.19:422][509]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.07.28-02.02.19:841][522]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.07.28-02.02.19:994][527]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.07.28-02.02.20:243][534]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.07.28-02.02.20:544][544]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.07.28-02.02.20:999][558]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.07.28-02.02.21:088][560]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.07.28-02.02.21:377][569]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.07.28-02.02.21:616][577]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.07.28-02.02.22:045][588]LogMaterial: Display: Missing cached shader map for material Mat_Sparks, compiling. 
+[2018.07.28-02.02.22:075][588]LogMaterial: Display: Missing cached shader map for material Mat_Sparks, compiling. 
+[2018.07.28-02.02.22:144][589]LogShaderCompilers: Display: Shaders left to compile 35
+[2018.07.28-02.02.22:224][594]LogShaderCompilers: Display: Shaders left to compile 34
+[2018.07.28-02.02.22:465][608]LogShaderCompilers: Display: Shaders left to compile 33
+[2018.07.28-02.02.22:473][608]LogShaderCompilers: Display: Shaders left to compile 32
+[2018.07.28-02.02.22:561][612]LogShaderCompilers: Display: Shaders left to compile 31
+[2018.07.28-02.02.22:822][618]LogShaderCompilers: Display: Shaders left to compile 30
+[2018.07.28-02.02.22:843][619]LogShaderCompilers: Display: Shaders left to compile 29
+[2018.07.28-02.02.22:878][621]LogShaderCompilers: Display: Shaders left to compile 28
+[2018.07.28-02.02.23:029][626]LogShaderCompilers: Display: Shaders left to compile 27
+[2018.07.28-02.02.23:338][633]LogShaderCompilers: Display: Shaders left to compile 26
+[2018.07.28-02.02.23:439][636]LogShaderCompilers: Display: Shaders left to compile 25
+[2018.07.28-02.02.24:385][658]LogShaderCompilers: Display: Shaders left to compile 24
+[2018.07.28-02.02.24:706][670]LogShaderCompilers: Display: Shaders left to compile 23
+[2018.07.28-02.02.24:897][674]LogShaderCompilers: Display: Shaders left to compile 22
+[2018.07.28-02.02.25:725][693]LogShaderCompilers: Display: Shaders left to compile 21
+[2018.07.28-02.02.25:758][695]LogShaderCompilers: Display: Shaders left to compile 20
+[2018.07.28-02.02.26:204][708]LogShaderCompilers: Display: Shaders left to compile 19
+[2018.07.28-02.02.26:353][713]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.07.28-02.02.26:409][714]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.07.28-02.02.26:795][725]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.07.28-02.02.27:187][737]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.07.28-02.02.27:335][742]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.07.28-02.02.27:844][768]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.07.28-02.02.28:097][780]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.07.28-02.02.28:663][795]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.07.28-02.02.28:829][797]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.07.28-02.02.29:042][805]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.07.28-02.02.29:389][815]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.07.28-02.02.29:911][830]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.07.28-02.02.29:921][831]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.07.28-02.02.30:225][840]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.07.28-02.02.31:444][869]MaterialEditorStats: Base pass shader: 81 instructions
+[2018.07.28-02.02.31:444][869]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 102 instructions
+[2018.07.28-02.02.31:444][869]MaterialEditorStats: Base pass vertex shader: 111 instructions
+[2018.07.28-02.02.31:444][869]MaterialEditorStats: Texture samplers: 3/16
+[2018.07.28-02.02.31:444][869]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.07.28-02.02.35:951][  8]LogMaterial: Display: Missing cached shader map for material Mat_Sparks, compiling. 
+[2018.07.28-02.02.35:988][  9]LogShaderCompilers: Display: Shaders left to compile 30
+[2018.07.28-02.02.35:988][  9]LogShaderCompilers: Display: Shaders left to compile 29
+[2018.07.28-02.02.35:988][  9]LogShaderCompilers: Display: Shaders left to compile 28
+[2018.07.28-02.02.36:342][ 30]LogShaderCompilers: Display: Shaders left to compile 27
+[2018.07.28-02.02.36:370][ 31]LogShaderCompilers: Display: Shaders left to compile 26
+[2018.07.28-02.02.36:446][ 35]LogShaderCompilers: Display: Shaders left to compile 25
+[2018.07.28-02.02.36:697][ 48]LogShaderCompilers: Display: Shaders left to compile 24
+[2018.07.28-02.02.36:716][ 49]LogShaderCompilers: Display: Shaders left to compile 23
+[2018.07.28-02.02.36:841][ 55]LogShaderCompilers: Display: Shaders left to compile 22
+[2018.07.28-02.02.37:468][ 72]LogShaderCompilers: Display: Shaders left to compile 21
+[2018.07.28-02.02.37:528][ 74]LogShaderCompilers: Display: Shaders left to compile 20
+[2018.07.28-02.02.38:100][ 91]LogShaderCompilers: Display: Shaders left to compile 19
+[2018.07.28-02.02.38:121][ 92]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.07.28-02.02.38:335][103]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.07.28-02.02.39:033][121]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.07.28-02.02.39:046][122]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.07.28-02.02.39:561][136]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.07.28-02.02.39:890][147]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.07.28-02.02.40:093][153]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.07.28-02.02.40:675][173]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.07.28-02.02.41:053][183]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.07.28-02.02.41:183][187]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.07.28-02.02.41:638][202]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.07.28-02.02.41:751][205]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.07.28-02.02.42:251][218]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.07.28-02.02.42:465][224]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.07.28-02.02.42:590][228]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.07.28-02.02.43:039][242]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.07.28-02.02.43:427][254]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.07.28-02.02.43:502][256]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.07.28-02.02.43:677][260]LogMaterial: Display: Missing cached shader map for material Mat_Sparks, compiling. 
+[2018.07.28-02.02.43:927][274]LogShaderCompilers: Display: Shaders left to compile 30
+[2018.07.28-02.02.44:287][293]LogShaderCompilers: Display: Shaders left to compile 29
+[2018.07.28-02.02.44:315][294]LogShaderCompilers: Display: Shaders left to compile 28
+[2018.07.28-02.02.44:641][303]LogShaderCompilers: Display: Shaders left to compile 27
+[2018.07.28-02.02.44:754][307]LogShaderCompilers: Display: Shaders left to compile 26
+[2018.07.28-02.02.44:889][312]LogShaderCompilers: Display: Shaders left to compile 25
+[2018.07.28-02.02.44:923][314]LogShaderCompilers: Display: Shaders left to compile 24
+[2018.07.28-02.02.44:968][315]LogShaderCompilers: Display: Shaders left to compile 23
+[2018.07.28-02.02.45:114][319]LogShaderCompilers: Display: Shaders left to compile 22
+[2018.07.28-02.02.45:681][343]LogShaderCompilers: Display: Shaders left to compile 21
+[2018.07.28-02.02.45:837][351]LogShaderCompilers: Display: Shaders left to compile 20
+[2018.07.28-02.02.46:369][372]LogShaderCompilers: Display: Shaders left to compile 19
+[2018.07.28-02.02.46:582][378]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.07.28-02.02.46:640][379]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.07.28-02.02.47:188][404]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.07.28-02.02.47:289][409]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.07.28-02.02.48:059][448]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.07.28-02.02.48:108][451]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.07.28-02.02.48:326][462]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.07.28-02.02.48:867][489]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.07.28-02.02.49:315][506]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.07.28-02.02.49:401][508]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.07.28-02.02.49:755][517]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.07.28-02.02.49:912][522]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.07.28-02.02.50:574][543]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.07.28-02.02.50:720][549]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.07.28-02.02.50:825][553]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.07.28-02.02.51:323][572]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.07.28-02.02.51:746][585]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.07.28-02.02.51:814][587]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.07.28-02.02.52:676][613]MaterialEditorStats: Base pass shader: 81 instructions
+[2018.07.28-02.02.52:676][613]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 102 instructions
+[2018.07.28-02.02.52:676][613]MaterialEditorStats: Base pass vertex shader: 111 instructions
+[2018.07.28-02.02.52:676][613]MaterialEditorStats: Texture samplers: 3/16
+[2018.07.28-02.02.52:676][613]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.07.28-02.03.10:392][  3]LogMaterialEditor: Saving and Compiling material Mat_Sparks
+[2018.07.28-02.03.12:769][  3]LogMaterial: Display: Missing cached shader map for material Mat_Sparks, compiling. 
+[2018.07.28-02.03.12:867][  3]LogShaderCompilers: Display: Shaders left to compile 30
+[2018.07.28-02.03.12:867][  3]LogShaderCompilers: Display: Shaders left to compile 29
+[2018.07.28-02.03.12:867][  3]LogShaderCompilers: Display: Shaders left to compile 28
+[2018.07.28-02.03.12:894][  3]LogMaterial: Display: Missing cached shader map for material Mat_Sparks, compiling. 
+[2018.07.28-02.03.12:922][  3]LogMaterial: Display: Missing cached shader map for material Mat_Sparks, compiling. 
+[2018.07.28-02.03.13:003][  3]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy Mat_Sparks, compiling. 
+[2018.07.28-02.03.19:030][  3]LogShaderCompilers: Display: Shaders left to compile 59
+[2018.07.28-02.03.19:031][  3]LogShaderCompilers: Display: Shaders left to compile 58
+[2018.07.28-02.03.19:031][  3]LogShaderCompilers: Display: Shaders left to compile 57
+[2018.07.28-02.03.19:031][  3]LogShaderCompilers: Display: Shaders left to compile 56
+[2018.07.28-02.03.19:031][  3]LogShaderCompilers: Display: Shaders left to compile 55
+[2018.07.28-02.03.19:031][  3]LogShaderCompilers: Display: Shaders left to compile 54
+[2018.07.28-02.03.19:031][  3]LogShaderCompilers: Display: Shaders left to compile 53
+[2018.07.28-02.03.19:031][  3]LogShaderCompilers: Display: Shaders left to compile 52
+[2018.07.28-02.03.19:031][  3]LogShaderCompilers: Display: Shaders left to compile 51
+[2018.07.28-02.03.19:031][  3]LogShaderCompilers: Display: Shaders left to compile 50
+[2018.07.28-02.03.19:031][  3]LogShaderCompilers: Display: Shaders left to compile 49
+[2018.07.28-02.03.19:031][  3]LogShaderCompilers: Display: Shaders left to compile 48
+[2018.07.28-02.03.19:031][  3]LogShaderCompilers: Display: Shaders left to compile 47
+[2018.07.28-02.03.19:031][  3]LogShaderCompilers: Display: Shaders left to compile 46
+[2018.07.28-02.03.19:031][  3]LogShaderCompilers: Display: Shaders left to compile 45
+[2018.07.28-02.03.19:031][  3]LogShaderCompilers: Display: Shaders left to compile 44
+[2018.07.28-02.03.19:031][  3]LogShaderCompilers: Display: Shaders left to compile 43
+[2018.07.28-02.03.19:031][  3]LogShaderCompilers: Display: Shaders left to compile 42
+[2018.07.28-02.03.19:031][  3]LogShaderCompilers: Display: Shaders left to compile 41
+[2018.07.28-02.03.19:031][  3]LogShaderCompilers: Display: Shaders left to compile 40
+[2018.07.28-02.03.19:031][  3]LogShaderCompilers: Display: Shaders left to compile 39
+[2018.07.28-02.03.19:031][  3]LogShaderCompilers: Display: Shaders left to compile 38
+[2018.07.28-02.03.19:031][  3]LogShaderCompilers: Display: Shaders left to compile 37
+[2018.07.28-02.03.19:031][  3]LogShaderCompilers: Display: Shaders left to compile 36
+[2018.07.28-02.03.19:031][  3]LogShaderCompilers: Display: Shaders left to compile 35
+[2018.07.28-02.03.19:031][  3]LogShaderCompilers: Display: Shaders left to compile 34
+[2018.07.28-02.03.19:031][  3]LogShaderCompilers: Display: Shaders left to compile 33
+[2018.07.28-02.03.19:031][  3]LogShaderCompilers: Display: Shaders left to compile 32
+[2018.07.28-02.03.19:031][  3]LogShaderCompilers: Display: Shaders left to compile 31
+[2018.07.28-02.03.19:034][  3]TextureStreamingBuild: Display: Compiling optional shaders took 6.041 seconds.
+[2018.07.28-02.03.19:273][  3]LogShaderCompilers: Display: Shaders left to compile 21
+[2018.07.28-02.03.26:994][  3]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.07.28-02.03.26:994][  3]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.07.28-02.03.27:050][  3]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyParticleSystems/Sprite/Mat_Sparks" FILE="../../../../../../Users/Gabriel/UnrealFour/YTTut2d/Content/MyParticleSystems/Sprite/Mat_Sparks.uasset" SILENT=true
+[2018.07.28-02.03.27:089][  3]LogSavePackage: Moving '../../../../../../Users/Gabriel/UnrealFour/YTTut2d/Saved/Mat_Sparks506AF0F64989336D33980E9A8697D06A.tmp' to '../../../../../../Users/Gabriel/UnrealFour/YTTut2d/Content/MyParticleSystems/Sprite/Mat_Sparks.uasset'
+[2018.07.28-02.03.30:919][158]LogMaterialEditor: Saving and Compiling material Mat_Sparks
+[2018.07.28-02.03.31:057][158]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyParticleSystems/Sprite/Mat_Sparks" FILE="../../../../../../Users/Gabriel/UnrealFour/YTTut2d/Content/MyParticleSystems/Sprite/Mat_Sparks.uasset" SILENT=true
+[2018.07.28-02.03.31:078][158]LogSavePackage: Moving '../../../../../../Users/Gabriel/UnrealFour/YTTut2d/Saved/Mat_Sparks26C4C95F4AD2A4B444C583B12B52B179.tmp' to '../../../../../../Users/Gabriel/UnrealFour/YTTut2d/Content/MyParticleSystems/Sprite/Mat_Sparks.uasset'
+[2018.07.28-02.03.32:316][206]LogSavePackage: Moving '../../../../../../Users/Gabriel/UnrealFour/YTTut2d/Saved/2DSideScrollerCharacter7D3BAC6D4BDF10FC4DC252B726FC6788.tmp' to '../../../../../../Users/Gabriel/UnrealFour/YTTut2d/Content/2DSideScrollerBP/Blueprints/2DSideScrollerCharacter.uasset'
+[2018.07.28-02.03.33:807][249]LogSlate: Window 'YTTut2d - Unreal Editor' being destroyed
+[2018.07.28-02.03.34:126][250]Cmd: QUIT_EDITOR
+[2018.07.28-02.03.34:947][250]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.07.28-02.03.34:969][250]LogExit: Preparing to exit.
